@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\migrations\\20240902193014_creatingdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:migrations\\20240902193014_creatingdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T04:49:36.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T04:49:27.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T04:49:07.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:43:34.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T04:41:20.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240902193014_CreatingDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Migrations\\20240902193014_CreatingDatabase.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240902193014_CreatingDatabase.cs",
+              "ToolTip": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Migrations\\20240902193014_CreatingDatabase.cs",
+              "RelativeToolTip": "Migrations\\20240902193014_CreatingDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:30:14.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:15:39.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:14:29.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T19:08:49.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Models\\BookModel.cs",
+              "RelativeToolTip": "Models\\BookModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:47:03.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

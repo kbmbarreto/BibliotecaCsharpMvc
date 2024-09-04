@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Livros";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Cadastro de livros.</p>
+
+@model IEnumerable<BookModel>
+
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Código</th>
+            <th scope="col">Título</th>
+            <th scope="col">Autor</th>
+            <th scope="col">Ano de publicação</th>
+            <th scope="col">Editora</th>
+            <th scope="col">Leitura finalizada?</th>
+            <th scope="col">Livro digital?</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @if(Model != null)
+        {
+            @foreach(var book in Model)
+            {
+                <tr>
+                    <th scope="row">@book.Id</th>
+                    <td>@book.Title</td>
+                    <td>@book.Author</td>
+                    <td>@book.Year</td>
+                    <td>@book.PublishingCompany</td>
+                    <td>@book.IsReaded</td>
+                    <td>@book.IsDigital</td>
+        </tr>
+            }
+        }
+
+    </tbody>
+</table>

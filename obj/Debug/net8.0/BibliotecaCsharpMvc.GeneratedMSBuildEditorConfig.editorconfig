@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\klebe\Documents\directories\public\backend\BibliotecaCsharpMvc
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/klebe/Documents/directories/public/backend/BibliotecaCsharpMvc/Views/Book/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/klebe/Documents/directories/public/backend/BibliotecaCsharpMvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
