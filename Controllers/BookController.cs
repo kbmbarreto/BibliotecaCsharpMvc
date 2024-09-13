@@ -16,8 +16,26 @@ namespace BibliotecaCsharpMvc.Controllers
         public IActionResult Index()
         {
             IEnumerable<BookModel> books = _db.Books;
-
             return View(books);
+        }
+
+        public IActionResult InsertBook()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult InsertBook(BookModel bookModel)
+        {
+            if (ModelState.IsValid)
+            {
+                _db.Books.Add(bookModel);
+                _db.SaveChanges();
+
+                return RedirectToAction("Index");
+            }
+
+            return View();
         }
     }
 }

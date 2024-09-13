@@ -1,0 +1,54 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model BookModel
+
+@{
+    ViewData["title"] = "Cadastrar Livro";
+}
+
+
+<div class="container bg-light p-5 rounded-5">
+
+    <div class="mb-5 text-center">
+        <h1 class="text-black">Cadastro de Livros</h1>
+    </div>
+
+    <form method="post" asp-asp-controller="Book" asp-action="InsertBook">
+        <div class="mb-3">
+            <label for="title" class="form-label">Título</label>
+            <input type="text" class="form-control" asp-for="Title" id="inpTxtTitulo" placeholder="Digite o nome do livro">
+        </div>
+        <div class="mb-3">
+            <label for="author" class="form-label">Autor</label>
+            <input type="text" class="form-control" asp-for="Author" id="inpTxtAutor" placeholder="Digite o nome do autor">
+        </div>
+        <div class="mb-3">
+            <label for="year" class="form-label">Ano</label>
+            <input type="number" class="form-control" asp-for="Year" id="inpTxtAno" placeholder="Ano de lançamento">
+        </div>
+        <div class="mb-3">
+            <label for="publishing" class="form-label">Editora</label>
+            <input type="text" class="form-control" asp-for="PublishingCompany" id="inpTxtEditora" placeholder="Digite a editora">
+        </div>
+        <div class="mb-3">
+            <label for="isreaded" class="form-label">Leitura finalizada?</label>
+            <input type="checkbox" asp-for="IsReaded" id="chkBxLeituraFinalizada">
+        </div>
+        <div class="mb-3">
+            <label for="isdigital" class="form-label">Livro digital?</label>
+            <input type="checkbox" asp-for="IsDigital" id="chkBxLivroDigital">
+        </div>
+        <div class="mb-3">
+            <label for="cover" class="form-label">Capa do livro</label>
+            <input type="text" class="form-control" asp-for="Cover" id="inpTxtCapa" placeholder="Digite o endereço da imagem na web">
+        </div>
+        <div class="d-flex gap-5 mt-5">
+            <button type="submit" class="btn btn-success w-50">Cadastrar</button>
+            <a class="btn btn-primary w-50" asp-asp-controller="Book" asp-action="Index">Voltar</a>
+        </div>
+    </form>
+</div>
+
+@Html.ValidationSummary(true)
