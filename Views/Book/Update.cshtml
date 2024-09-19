@@ -1,21 +1,20 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-
-@model BookModel
+﻿@model BookModel
 
 @{
-    ViewData["title"] = "Cadastrar Livro";
+    ViewData["title"] = "Atualizar informaçôes do Livro";
 }
 
 
 <div class="container bg-light p-5 rounded-5">
 
     <div class="mb-5 text-center">
-        <h1 class="text-black">Cadastro de Livros</h1>
+        <h1 class="text-black">Editar livro cadastrado</h1>
     </div>
 
-    <form method="post" asp-asp-controller="Book" asp-action="InsertBook">
+    <form method="post" asp-controller="Book" asp-action="UpdateBook">
+
+        <input type="hidden" asp-for="Id"/>
+
         <div class="mb-3">
             <label for="title" class="form-label">Título</label>
             <input type="text" class="form-control" asp-for="Title" id="inpTxtTitulo" placeholder="Digite o nome do livro">
@@ -50,7 +49,7 @@
         </div>
         <div class="d-flex gap-5 mt-5">
             <button type="submit" class="btn btn-success w-50">Cadastrar</button>
-            <a class="btn btn-primary w-50" asp-asp-controller="Book" asp-action="Index">Voltar</a>
+            <a class="btn btn-primary w-50" asp-controller="Book" asp-action="Index">Voltar</a>
         </div>
     </form>
 </div>

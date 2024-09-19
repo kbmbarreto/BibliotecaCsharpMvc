@@ -22,6 +22,7 @@
             <th scope="col">Editora</th>
             <th scope="col">Leitura finalizada?</th>
             <th scope="col">Livro digital?</th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
@@ -38,6 +39,10 @@
                     <td>@book.PublishingCompany</td>
                     <td>@book.IsReaded</td>
                     <td>@book.IsDigital</td>
+                    <td>
+                        <a asp-controller="Book" asp-action="Update" asp-route-id="@book.Id" class="btn btn-warning mx-2">Editar</a>
+                        <a asp-controller="Book" asp-action="Delete" asp-route-id="@book.Id" class="btn btn-danger mx-2">Excluir</a>
+                    </td>
         </tr>
             }
         }
