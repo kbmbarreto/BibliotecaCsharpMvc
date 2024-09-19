@@ -69,10 +69,34 @@ namespace BibliotecaCsharpMvc.Controllers
             return View(book);
         }
 
-        [HttpDelete]
-        public IActionResult DeleteBook() 
+        [HttpGet]
+        public IActionResult Delete(int? id) 
         {
-            return View();
+            if (id == null || id == 0)
+            {
+                return NotFound();
+            }
+
+            BookModel book = _db.Books.FirstOrDefault(x => x.Id == id);
+
+            if (book == null)
+            {
+                return NotFound();
+            }
+
+            return View(book);
+        }
+
+        [HttpPost]
+        public IActionResult DeleteBook(BookModel book)
+        {
+            if (book == null) 
+            {
+                return NotFound();
+            }
+            _db.Books.Remove(book);
+            _db.SaveChanges();
+            return RedirectToAction("Index");
         }
     }
 }

@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\views\\book\\insertbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:views\\book\\insertbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\views\\book\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:views\\book\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\views\\book\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:views\\book\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\views\\book\\insertbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|solutionrelative:views\\book\\insertbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{431E1996-58EC-42D1-AC14-7256A5F11A95}|BibliotecaCsharpMvc.csproj|c:\\users\\klebe\\documents\\directories\\public\\backend\\bibliotecacsharpmvc\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,24 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Book\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T15:06:28.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Views\\Book\\Update.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Update.cshtml",
               "ToolTip": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Views\\Book\\Update.cshtml",
               "RelativeToolTip": "Views\\Book\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCMAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-19T13:32:44.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "InsertBook.cshtml",
               "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Views\\Book\\InsertBook.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\InsertBook.cshtml",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -85,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Views\\Book\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
@@ -104,14 +121,14 @@
               "RelativeDocumentMoniker": "Controllers\\BookController.cs",
               "ToolTip": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Controllers\\BookController.cs",
               "RelativeToolTip": "Controllers\\BookController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAADwv0IAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T04:43:34.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -123,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20240902193014_CreatingDatabase.cs",
               "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Migrations\\20240902193014_CreatingDatabase.cs",
               "RelativeDocumentMoniker": "Migrations\\20240902193014_CreatingDatabase.cs",
@@ -135,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BookModel.cs",
               "DocumentMoniker": "C:\\Users\\klebe\\Documents\\directories\\public\\backend\\BibliotecaCsharpMvc\\Models\\BookModel.cs",
               "RelativeDocumentMoniker": "Models\\BookModel.cs",
@@ -143,8 +160,7 @@
               "RelativeToolTip": "Models\\BookModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T18:47:03.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T18:47:03.912Z"
             }
           ]
         }
