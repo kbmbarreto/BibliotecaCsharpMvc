@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BibliotecaCsharpMvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b36da0602a152bc1e75eecdd9f7b475ff2e80b4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3695013c618e8373c340c6473e5587cecb7793f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BibliotecaCsharpMvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BibliotecaCsharpMvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,12 +6,28 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+// Configuração do DbContext com MySQL (MariaDB)
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("Connection"));
+    options.UseMySql(
+        builder.Configuration.GetConnectionString("Connection"),
+        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("Connection")) // Detecta automaticamente a versão do servidor
+    );
 });
 
 var app = builder.Build();
+
+
+// Configuração do DbContext com MSSQL (Microsoft SQL Server)
+//builder.Services.AddControllersWithViews();
+
+//builder.Services.AddDbContext<ApplicationDbContext>(options =>
+//{
+//options.UseSqlServer(builder.Configuration.GetConnectionString("Connection"));
+//});
+
+//var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
