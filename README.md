@@ -41,15 +41,15 @@ Para executar em um banco de dados recém criado, certifique-se de apagar (se ho
 
 No Windows:
 
-<p>`add-migration CreatingDatabase`
-<p>`update-database`
+<br> `add-migration CreatingDatabase`
+<br> `update-database`
 
 No Mac:
 
-<p>`dotnet tool install --global dotnet-ef`
-<p>`dotnet ef --version`
-<p>`dotnet ef migrations add CreatingDatabase`
-<p>`dotnet ef database update`
+<br> `dotnet tool install --global dotnet-ef`
+<br> `dotnet ef --version`
+<br> `dotnet ef migrations add CreatingDatabase`
+<br> `dotnet ef database update`
 
 ## Links úteis.
 
